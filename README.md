@@ -1,6 +1,6 @@
 # Modelo de Churn de funcionário
 <p align="center">
-<img src="https://raw.githubusercontent.com/LeandroCoelhos/Modelo_Churn_Funcionario/blob/main/data/Banner 6.png">
+<img src="https://github.com/LeandroCoelhos/Modelo_Churn_Funcionario/blob/main/6%20Compei%C3%A7%C3%A3o%20Modelagem.ipynb">
 </p>
 
 ----
